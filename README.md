@@ -91,8 +91,8 @@ redis-lite/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/redis-lite.git
-cd redis-lite
+git clone https://github.com/<your-username>/Redis_Lite.git
+cd Redis_Lite
 ```
 
 Compile the server:
